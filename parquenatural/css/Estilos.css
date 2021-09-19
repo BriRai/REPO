@@ -1,0 +1,36 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+bocy{
+    font-family: 'Lucida Sans Unicode';
+    font-size: 10pt;
+    background-color: #efefef; 
+    padding: 10px;
+    margin: 0;
+}
+h1 {
+    font-size: 25pt;
+    color: lightgreen;
+    text-align: center;
+}
+
+h2 {color:lightgreen}
+p{color: rgb(15, 14, 14);}
+*{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+h3{color: darkgoldenrod;}
+
+miClase{
+    background-color: mediumaquamarine;
+}
+
+[data-tupe] {
+    color: mediumorchid;
+}
+table style{
+    width:  100% } 
+
+Table, th, td {
+    border:1px solid rgb(245, 197, 197);
+  }
